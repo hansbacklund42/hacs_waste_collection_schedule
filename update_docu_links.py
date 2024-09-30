@@ -52,7 +52,7 @@ PACKAGE_DIR = (
     / "waste_collection_schedule"
 )
 SOURCE_DIR = PACKAGE_DIR / "waste_collection_schedule" / "source"
-DOC_URL_BASE = "https://github.com/mampfes/hacs_waste_collection_schedule/blob/master"
+DOC_URL_BASE = "https://github.com/hansbacklund42/hacs_waste_collection_schedule/blob/master"
 
 T = TypeVar("T")
 
